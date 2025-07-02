@@ -1,0 +1,147 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(242, 239, 239);
+}
+.menu2 ul{
+list-style-type: none;
+padding: none;
+margin: none;
+ overflow: hidden;
+ background-color: white;
+
+}
+.menu2 ul li{
+    float:left;
+    margin-left: 45px;
+    display: block;
+     margin-bottom:30px;
+
+     padding: 10px;
+    
+}
+.menu2 ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(27, 27, 27);
+    
+}
+.Articles{
+     display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:1rem;
+ width:1200px;
+  padding-left: 20px;
+  margin-left: 150px;
+   margin-top: 100px;
+
+}
+.image1{
+    grid-row: 1/3;
+}
+.image1 img{
+    width: 500px;
+}
+.image1 h3,p{
+    padding-top: 50px;
+}
+.image1{
+    background-color: white;
+    border: solid 2px white;
+    border-radius: 10px;
+   height:500px;
+}
+.image1{
+    padding: 11px;
+}
+.image2{
+     background-color: white;
+    border: solid 2px white;
+    border-radius: 10px;
+    
+    width: 250px;
+    height: 250px;
+}
+
+.image3{
+     background-color: white;
+    border: solid 2px white;
+    border-radius: 10px;
+    margin-left: -60px;
+   width: 250px;
+    height: 250px;
+    
+}
+.image4{
+     background-color: white;
+    border: solid 2px white;
+    border-radius: 10px;
+    
+    width: 250px;
+    height: 250px;
+}
+
+.image5{
+     background-color: white;
+    border: solid 2px white;
+    border-radius: 10px;
+    margin-left: -60px;
+    width: 250px;
+    height: 250px;
+}
+.AutreArticle{
+   display: flex;
+   justify-content: space-around;
+ 
+}
+.head1 h1{
+    margin-top:90px ;
+     margin-bottom:90px ;
+    margin-left: 150px;
+      font-size:20px;
+      color: rgb(88, 86, 86);
+}
+
+.itm1{
+     background-color: white;
+    border: solid 2px white;
+    border-radius: 10px;
+    margin-left: -60px;
+    width: 250px;
+    height: 250px;
+}
+
+.itm2{
+     background-color: white;
+    border: solid 2px white;
+    border-radius: 10px;
+    margin-left: -300px;
+    width: 250px;
+    height: 250px;
+}
+
+.itm3{
+     background-color: white;
+    border: solid 2px white;
+    border-radius: 10px;
+  margin-left: -300px;
+    width: -300px;
+    height: 250px;
+}
+
+.itm4{
+     background-color: white;
+    border: solid 2px white;
+    border-radius: 10px;
+   margin-left: -300px;
+    width: 250px;
+    height: 250px;
+}
+.gradient{
+    background-image: url('i-made-a-gradient-wallpaper-pack-and-this-is-one-of-the-v0-jlpv3gf20c291.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
