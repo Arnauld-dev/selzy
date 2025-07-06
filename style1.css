@@ -199,7 +199,8 @@ top: 0;
 }
 .butto{
 display: flex;
-flex-direction: row;
+ flex-wrap: wrap;
+
 gap: 50px;
 
 } 
@@ -210,4 +211,17 @@ gap: 50px;
     margin-top:20px;
     margin-bottom:20px;
    
+}
+
+.box{
+   display:flex;
+   flex-wrap: wrap;
+  gap: 20px 20px;
+  
+  
+   
+ 
+}
+.img2{
+ background-color: white;
 }
