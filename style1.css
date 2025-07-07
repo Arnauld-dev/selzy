@@ -285,3 +285,9 @@ button{
  border-radius: 15px;
  box-shadow: 5px 5px 5px rgb(160, 159, 159);
 }
+.gradient1{
+    background-image: url('54b41122156080326561eae832047ff2.jpg');
+     background-repeat: no-repeat;
+    background-size: cover;
+   
+}
