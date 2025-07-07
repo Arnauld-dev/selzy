@@ -50,6 +50,7 @@ top: 0;
  width:1200px;
   padding-left: 20px;
   margin-left: 150px;
+  
 
 
 }
@@ -58,6 +59,7 @@ top: 0;
 }
 .image1 img{
     width: 500px;
+    
 }
 .image1 h3,p{
     padding-top: 50px;
@@ -67,6 +69,7 @@ top: 0;
     border: solid 2px white;
     border-radius: 10px;
    height:500px;
+    box-shadow: 5px 5px 5px rgb(160, 159, 159);
 }
 .image1{
     padding: 11px;
@@ -78,6 +81,7 @@ top: 0;
     
     width: 250px;
     height: 250px;
+    box-shadow: 5px 5px 5px rgb(160, 159, 159);
 }
 
 .image3{
@@ -87,6 +91,7 @@ top: 0;
     margin-left: -60px;
    width: 250px;
     height: 250px;
+    box-shadow: 5px 5px 5px rgb(160, 159, 159);
     
 }
 .image4{
@@ -96,6 +101,7 @@ top: 0;
     
     width: 250px;
     height: 250px;
+    box-shadow: 5px 5px 5px rgb(160, 159, 159);
 }
 .header1{
     display:flex;
@@ -115,10 +121,12 @@ top: 0;
     margin-left: -60px;
     width: 250px;
     height: 250px;
+     box-shadow: 5px 5px 5px rgb(160, 159, 159);
 }
 .AutreArticle{
    display: flex;
    justify-content: space-around;
+   
  
 }
 .head1 h1{
@@ -136,6 +144,7 @@ top: 0;
     margin-left: -60px;
     width: 250px;
     height: 250px;
+     box-shadow: 5px 5px 5px rgb(160, 159, 159);
 }
 
 .itm2{
@@ -145,6 +154,7 @@ top: 0;
     margin-left: -300px;
     width: 250px;
     height: 250px;
+     box-shadow: 5px 5px 5px rgb(160, 159, 159);
 }
 
 .itm3{
@@ -154,6 +164,7 @@ top: 0;
   margin-left: -300px;
     width: -300px;
     height: 250px;
+     box-shadow: 5px 5px 5px rgb(160, 159, 159);
 }
 
 .itm4{
@@ -163,6 +174,7 @@ top: 0;
    margin-left: -300px;
     width: 250px;
     height: 250px;
+     box-shadow: 5px 5px 5px rgb(160, 159, 159);
 }
 .gradient{
     background-image: url('i-made-a-gradient-wallpaper-pack-and-this-is-one-of-the-v0-jlpv3gf20c291.webp');
@@ -217,6 +229,10 @@ gap: 50px;
    display:flex;
    flex-wrap: wrap;
   gap: 20px 20px;
+  margin-left:150px ;
+  margin-right: 150px;
+  margin-top:20px ;
+  margin-bottom:50px;
   
   
    
@@ -224,4 +240,48 @@ gap: 50px;
 }
 .img2{
  background-color: white;
+ height: 250px;
+ 
+ border-radius: 15px;
+ box-shadow: 5px 5px 5px rgb(160, 159, 159);
+}
+button{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 4px;
+}
+.butto1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.menu4{
+    margin-left:150px ;
+}
+
+
+
+.box2{
+   display:flex;
+   flex-wrap: wrap;
+  gap: 20px 20px;
+  margin-left:150px ;
+  margin-right: 150px;
+  margin-top:20px ;
+  margin-bottom:50px;
+  
+  
+   
+ 
+}
+
+
+.img3{
+ background-color: white;
+ height: 250px;
+ 
+ border-radius: 15px;
+ box-shadow: 5px 5px 5px rgb(160, 159, 159);
 }
