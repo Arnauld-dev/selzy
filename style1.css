@@ -190,8 +190,12 @@ top: 0;
 .gradient button{
     border:solid 1px;
     font-size: 90px;
+    width: 300px;
+    height: 50px;
     border-radius: 12px;
-    font-size: 15px;
+    font-size: 19px;
+    color: rgb(51, 50, 50);
+    font-weight: bold;
     padding-top: 10px;
     padding-left: 40px;
     padding-right: 40px;
@@ -310,3 +314,47 @@ button{
 .menu5{
     margin-left:150px ;
 }
+.gradient1{
+    padding: 15px;
+    column-count: 2;
+    column-gap: 55px;
+   
+}
+.h1{
+    color: white;
+    padding-top:100px;
+    padding-right:100px;
+}
+.h1 button{
+    border: solid 1px rgb(249, 179, 179);
+    width: 460px;
+    height: 45px;
+   
+}
+.button1{
+    padding-top: 15px;
+     padding-bottom: 15px;
+}
+.h1 a{
+    color: white;
+}
+.h1 label{
+    font-size: 10px;
+}
+.h1 input{
+    border: solid 1px rgb(249, 179, 179);
+    color: white;
+  
+}
+.butn1{
+    text-align:start;
+    color: rgb(55, 54, 54);
+    padding: 10px;
+}
+.butn2{
+    background-color: rgb(249, 179, 179) ;
+    text-align: center;
+    color: rgb(55, 54, 54);
+     padding: 10px;
+}
+
